@@ -5,3 +5,4 @@
 - CORS
 - dotenv
 
+Para reconstruir los modulos de node use ``` npm intall ```
